@@ -1,1 +1,1 @@
-# jenkins-server
+# Maven-standalone-project
